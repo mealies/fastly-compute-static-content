@@ -6,7 +6,7 @@ description = "Apply performance, security and usability upgrades to static buck
 language = "rust"
 manifest_version = 3
 name = "Static content"
-service_id = ""
+service_id = "S2huW3oa1X5aG2S6Vh2dS2"
 
 [scripts]
 build = "cargo build --bin fastly-compute-project --release --target wasm32-wasi --color always"
